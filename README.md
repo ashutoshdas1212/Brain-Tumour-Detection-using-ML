@@ -13,6 +13,34 @@
 
 <img width="731" alt="{B2720570-C2E6-42F7-94F2-9D61AE60D906}" src="https://github.com/user-attachments/assets/578aaea0-8568-44bc-91cb-c0b4e1cd58e5">
 
+# BTD - Brain Tumor Detection Project
+
+This is a Django-based web application for brain tumor detection.
+
+## Requirements
+
+- Python 3.x
+- Django 3.2.x
+
+## Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository-link>
+   cd <repository-folder>
+pip install django
+MODEL_ROOT = r'C:\Users\AshutoshX\Documents\BRAIN TUMOUR PROJECT 24\BTD\BTD'
+py manage.py runserver
+BTD/
+├── BTD/
+│   ├── settings.py
+│   ├── urls.py
+│   ├── wsgi.py
+├── service/
+├── manage.py
+
+
 
 
 
